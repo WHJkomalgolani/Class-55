@@ -1,0 +1,7 @@
+Class 55:
+Check Output on phone.
+We sometimes do not hear sound of buzzer on Web.
+
+Also refer video of teacher uploaded on youtube.
+
+Also we actually donot have to click Ctrl+Enter because by default library file is there under package.json. We just need to show it to student .
